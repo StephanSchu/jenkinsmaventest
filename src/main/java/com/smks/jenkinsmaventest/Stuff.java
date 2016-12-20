@@ -12,6 +12,5 @@ package com.smks.jenkinsmaventest;
 public class Stuff {
     public void doStuff(){
         System.out.println("I do stuff");
-        System.out.println("More stuff");
     }
 }
